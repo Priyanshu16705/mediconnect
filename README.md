@@ -221,10 +221,7 @@ GET  /api/admin/appointments
 
 ## 👨‍💻 Developer
 
-**Priyanshu Kumar**  
-B.Tech Information Technology — RGIPT, Amethi  
+**Priyanshu Kumar**   
 GitHub: [@Priyanshu16705](https://github.com/Priyanshu16705)
-
 ---
 
-Built with ❤️ for the Indian healthcare ecosystem.
