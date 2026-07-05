@@ -59,7 +59,7 @@ app.use('/api/auth/register', authLimiter);
 
 // ─── General Middleware ────────────────────────────────────────────────────────
 app.use(cors({
-  origin: process.env.CLIENT_URL || 'http://localhost:5173',
+  origin: ['https://mediconnect-ten-sigma.vercel.app', 'http://localhost:5173', process.env.CLIENT_URL].filter(Boolean),
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization'],
@@ -110,4 +110,5 @@ process.on('unhandledRejection', (err) => {
 });
 
 module.exports = app;
+
 
