@@ -66,7 +66,6 @@ A full-stack, market-ready healthcare appointment booking platform built with th
 
 | Role | Email | Password |
 |------|-------|----------|
-| **Admin** | admin@mediconnect.in | Admin@123 |
 | **Patient** | patient@mediconnect.in | Patient@123 |
 | **Doctor** | priya.sharma@mediconnect.in | Doctor@123 |
 
