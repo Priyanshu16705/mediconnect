@@ -1,7 +1,6 @@
 # 🏥 MediConnect — Healthcare Appointment Platform
 
 > **Live Website:** [https://mediconnect-ten-sigma.vercel.app](https://mediconnect-ten-sigma.vercel.app)  
-> **Backend API:** [https://mediconnect-backend-bgsa.onrender.com](https://mediconnect-backend-bgsa.onrender.com)  
 > **GitHub:** [https://github.com/Priyanshu16705/mediconnect](https://github.com/Priyanshu16705/mediconnect)
 
 A full-stack, market-ready healthcare appointment booking platform built with the MERN stack. Patients can find verified doctors, book slots, and pay online. Doctors manage their schedule, availability, and patient records. Admins verify doctors and monitor the platform.
